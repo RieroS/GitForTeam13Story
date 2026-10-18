@@ -12,8 +12,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 1. Once upon a time, there was a **castle** made from a french fries.  
    ![castle](/img/castle.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Then suddenly, a **dragon** appeared… 
+   ![dragon](/img/)
 
 3. The scientist shouted something very important but nobody wrote it down. it was actually a way to stop the teleportation spell cast by the robot dragon  
 
@@ -36,3 +36,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
     
 
 10. In the end wurns out it was the commercial from the start so the rocket that's made of milk in the space crash down to doctor doom and at the same time the detective throw the box in then BOOMMM กำเนิดเป็นโกโก้ครั้นช์
+    
