@@ -15,7 +15,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… 
    ![dragon](/img/)
 
-3. The scientist shouted something very important but nobody wrote it down. it was actually a way to stop the teleportation spell cast by the robot dragon  
+3. The scientist shouted something very important but nobody wrote it down. it was actually a way to stop the teleportation spell cast by the  dragon !!!!
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**… it's stuck and became too rusty to open 
    ![treasure chest](/img/treasure_large.png)  Strangely, something inside was knocking.
