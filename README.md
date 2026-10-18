@@ -13,7 +13,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![castle](/img/castle.png)
 
 2. Then suddenly, a **dragon** appeared… 
-   ![dragon](/img/)
+   ![dragon](/img/dragon.png)
 
 3. The scientist shouted something very important but nobody wrote it down. it was actually a way to stop the teleportation spell cast by the  dragon !!!!
    ![scientist](/img/scientist.png)
