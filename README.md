@@ -7,6 +7,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
+![Frog](/img/Frog.jpg)
+
 1. Once upon a time, there was a **castle** made from a french fries.  
    ![castle](/img/castle.png)
 
