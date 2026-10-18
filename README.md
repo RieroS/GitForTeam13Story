@@ -15,6 +15,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… or maybe it's a **robot**??
    ![dragon](/img/mech_dragon.png)
 
+
 3. The scientist in the castle shouted something very important but nobody wrote it down. it was actually a way to stop the teleportation spell cast by the  dragon !!!!
   
 
