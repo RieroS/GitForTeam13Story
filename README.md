@@ -28,6 +28,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    But it had no directions... Everyone just stared at it and said "hmm"
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this). because the pirate is actually inside the treasure chest like a genie and someone rubbed it!!  
+   ![pirate](/img/pirate.png)
 
 7. A rocket blasted off, but at the same time the **time machine** broke down. now we can't fix the corrupted timeline because of this Dr.Doom is coming "skull emoji fr fr" 
 
